@@ -10,14 +10,14 @@
 + Day 9: Split, Explode & Array Functions
 + Day 10: Trimming & Padding Strings
 
-### Advanced PySpark Topics
+### Day 11 - Day 0: Advanced PySpark Topics
 + Day 11-12: Date Functions Part 1 & 2
 + Day 13: Handling Null Values Like a Pro
 + Day 14-15: Aggregation Functions – Parts 1 & 2
 + Day 16-19: Joins Series – From Introduction to Output Manipulation in 4 Parts
 + Day 20: Mastering when & otherwise Statements for Conditional Logic
 
-### Advanced PySpark Functions
+### Day 21 - Day 30: Advanced PySpark Functions
 + Day 21: cast() and printSchema()
 + Day 22: Union vs UnionAll in PySpark
 + Day 23: Union vs. UnionByName in PySpark
