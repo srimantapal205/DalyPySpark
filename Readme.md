@@ -10,7 +10,7 @@
 + Day 9: Split, Explode & Array Functions
 + Day 10: Trimming & Padding Strings
 
-### Day 11 - Day 0: Advanced PySpark Topics
+### Day 11 - Day 20: Advanced PySpark Topics
 + Day 11-12: Date Functions Part 1 & 2
 + Day 13: Handling Null Values Like a Pro
 + Day 14-15: Aggregation Functions – Parts 1 & 2
