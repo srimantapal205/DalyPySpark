@@ -1,0 +1,87 @@
+[
+  {
+    "emp_id": 1,
+    "emp_name": "Alice",
+    "salary": 90000,
+    "manager_id": null
+  },
+  {
+    "emp_id": 2,
+    "emp_name": "Bob",
+    "salary": 75000,
+    "manager_id": 1
+  },
+  {
+    "emp_id": 3,
+    "emp_name": "Charlie",
+    "salary": 72000,
+    "manager_id": 1
+  },
+  {
+    "emp_id": 4,
+    "emp_name": "David",
+    "salary": 60000,
+    "manager_id": 2
+  },
+  {
+    "emp_id": 5,
+    "emp_name": "Eve",
+    "salary": 58000,
+    "manager_id": 2
+  },
+  {
+    "emp_id": 6,
+    "emp_name": "Frank",
+    "salary": 62000,
+    "manager_id": 3
+  },
+  {
+    "emp_id": 7,
+    "emp_name": "Grace",
+    "salary": 58000,
+    "manager_id": 3
+  },
+  {
+    "emp_id": 8,
+    "emp_name": "Hank",
+    "salary": 50000,
+    "manager_id": 4
+  },
+  {
+    "emp_id": 9,
+    "emp_name": "Ivy",
+    "salary": 53000,
+    "manager_id": 5
+  },
+  {
+    "emp_id": 10,
+    "emp_name": "Jack",
+    "salary": 51000,
+    "manager_id": 5
+  },
+  {
+    "emp_id": 11,
+    "emp_name": "Kathy",
+    "salary": 48000,
+    "manager_id": 6
+  },
+  {
+    "emp_id": 12,
+    "emp_name": "Leo",
+    "salary": 91000,
+    "manager_id": 6
+  },
+  {
+    "emp_id": 13,
+    "emp_name": "Mia",
+    "salary": 45000,
+    "manager_id": 7
+  },
+  {
+    "emp_id": 14,
+    "emp_name": "Nina",
+    "salary": 44000,
+    "manager_id": 7
+  }
+  
+]
