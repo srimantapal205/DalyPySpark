@@ -15,13 +15,13 @@
     "emp_id": 3,
     "emp_name": "Charlie",
     "salary": 72000,
-    "manager_id": 1
+    "manager_id": 7
   },
   {
     "emp_id": 4,
     "emp_name": "David",
     "salary": 60000,
-    "manager_id": 2
+    "manager_id": 7
   },
   {
     "emp_id": 5,
@@ -45,7 +45,7 @@
     "emp_id": 8,
     "emp_name": "Hank",
     "salary": 50000,
-    "manager_id": 4
+    "manager_id": 7
   },
   {
     "emp_id": 9,
@@ -63,13 +63,13 @@
     "emp_id": 11,
     "emp_name": "Kathy",
     "salary": 48000,
-    "manager_id": 6
+    "manager_id": 7
   },
   {
     "emp_id": 12,
     "emp_name": "Leo",
     "salary": 91000,
-    "manager_id": 6
+    "manager_id": 7
   },
   {
     "emp_id": 13,
